@@ -1,0 +1,9 @@
+{
+  "name": "aurelia-clinic-appointments",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium hospital website with appointment booking and admin dashboard.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
